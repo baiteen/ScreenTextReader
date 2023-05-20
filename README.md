@@ -1,2 +1,2 @@
-Androidアプリ「画面のQRリーダー」のページ
-https://baiteen.github.io/ScreenQrReader/
+Androidアプリ「画面のもじリーダー」のページ
+https://baiteen.github.io/ScreenTextReader/
